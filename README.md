@@ -1,2 +1,2 @@
 # Squirtle
-To get the material of squirtle's  emoticon, which is one of the most famous emoticon.
+To get the material of squirtle, which is one of the most famous emoticon.
